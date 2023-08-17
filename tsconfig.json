@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "removeComments": true,
+        "outFile": "js/script.js",
+    },
+    "files": ["main.ts"],
+    "compileOnSave": true,
+    "watchOptions": {
+        "watchFile": "usefsevents"
+    }
+}
